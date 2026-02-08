@@ -24,6 +24,8 @@
  <summary><strong>Yosh!</strong></summary>
 <p>
     - :keyboard: I’m currently learning Data Analytics. </br>
+    - :keyboard: Scrapping with Python. </br>
+    -:keyboard: Lua scripting
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: She/Her. </br>
