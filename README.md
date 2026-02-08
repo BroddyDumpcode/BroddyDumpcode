@@ -11,8 +11,11 @@
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
+<p>
+    <img
+        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    
+</p>
 ### <summary><strong>Yosh!</strong></summary>
 <p>
     - :keyboard: I’m currently learning Data Analytics. </br>
