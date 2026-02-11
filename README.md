@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-### <summary><strong>Tools and Leanguage:</strong></summary>
+### <summary><strong>Tools and programming language:</strong></summary>
 <p>
     <img
         src="https://img.shields.io/badge/Neovim-v0.9.0-brightgreen" />
